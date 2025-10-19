@@ -1,0 +1,217 @@
+Date,Product ID,Product Name,Product Category,Region,Customer Segment, Sales Amount ,Units Sold,Customer Feedback Score
+1/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $7,907.00 ",7,1
+1/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Retail Partner," $3,585.00 ",3,1
+1/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Individual," $1,252.00 ",1,5
+1/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $4,837.00 ",3,5
+1/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Individual," $5,538.00 ",2,3
+1/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Retail Partner," $1,260.00 ",2,2
+1/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Individual," $1,273.00 ",5,2
+1/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $1,434.00 ",1,4
+1/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Individual," $1,891.00 ",7,4
+1/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $1,614.00 ",4,1
+1/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Individual," $1,910.00 ",2,1
+1/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $1,342.00 ",1,5
+1/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Individual," $1,658.00 ",7,1
+1/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Retail Partner," $1,640.00 ",5,3
+1/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Individual," $1,069.00 ",4,5
+1/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Retail Partner," $1,874.00 ",2,5
+1/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Individual," $1,695.00 ",2,2
+1/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $1,688.00 ",2,1
+2/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Individual," $4,918.00 ",7,4
+2/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Retail Partner," $3,682.00 ",6,2
+2/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Individual," $1,401.00 ",2,1
+2/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Retail Partner," $2,097.00 ",3,2
+2/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Individual," $4,060.00 ",5,5
+2/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Retail Partner," $1,483.00 ",2,1
+2/1/2023,RB2001,Speedster RB,Road Bikes,North America,Individual," $1,173.00 ",3,5
+2/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $1,573.00 ",4,5
+2/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Individual," $2,085.00 ",3,5
+2/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $1,939.00 ",6,4
+2/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Individual," $2,373.00 ",2,5
+2/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $1,068.00 ",1,3
+2/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Individual," $1,644.00 ",5,1
+2/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $2,184.00 ",4,5
+2/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $1,011.00 ",5,2
+2/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Retail Partner," $3,234.00 ",5,4
+2/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Individual," $1,680.00 ",7,2
+2/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Retail Partner," $1,598.00 ",5,3
+3/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $2,307.00 ",3,4
+3/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Retail Partner," $1,493.00 ",1,2
+3/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $2,768.00 ",4,1
+3/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Retail Partner," $2,089.00 ",3,5
+3/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Individual," $3,218.00 ",4,4
+3/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Retail Partner," $1,323.00 ",1,4
+3/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Individual," $1,278.00 ",3,4
+3/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $1,840.00 ",3,4
+3/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Individual," $1,519.00 ",3,2
+3/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $1,400.00 ",2,1
+3/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Individual," $1,571.00 ",4,2
+3/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $1,728.00 ",5,1
+3/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Individual," $8,399.00 ",5,5
+3/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Retail Partner," $4,890.00 ",10,2
+3/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Individual," $8,278.00 ",2,3
+3/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Retail Partner," $1,154.00 ",1,4
+3/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $8,905.00 ",3,1
+3/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Retail Partner," $4,147.00 ",8,2
+4/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Individual," $4,269.00 ",5,5
+4/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Retail Partner," $2,616.00 ",3,2
+4/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Individual," $3,029.00 ",5,3
+4/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $1,637.00 ",2,5
+4/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $2,544.00 ",3,4
+4/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $2,402.00 ",3,2
+4/1/2023,RB2001,Speedster RB,Road Bikes,North America,Individual," $1,489.00 ",5,4
+4/1/2023,RB2001,Speedster RB,Road Bikes,North America,Retail Partner," $1,923.00 ",3,5
+4/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Individual," $1,909.00 ",3,4
+4/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Retail Partner," $3,278.00 ",4,3
+4/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Individual," $1,282.00 ",1,3
+4/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Retail Partner," $4,578.00 ",6,1
+4/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Individual," $2,133.00 ",4,1
+4/1/2023,TB3002,Tour De World,Touring Bikes,North America,Retail Partner," $2,119.00 ",4,4
+4/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $4,622.00 ",7,2
+4/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Retail Partner," $4,495.00 ",9,4
+4/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Individual," $2,998.00 ",4,5
+4/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $4,030.00 ",6,3
+5/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Individual," $1,409.00 ",2,1
+5/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Retail Partner," $1,600.00 ",2,4
+5/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Individual," $2,658.00 ",3,5
+5/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Retail Partner," $2,638.00 ",4,3
+5/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $2,001.00 ",3,4
+5/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $3,594.00 ",5,3
+5/1/2023,RB2002,Roadmaster,Road Bikes,North America,Individual," $1,044.00 ",1,1
+5/1/2023,RB2002,Roadmaster,Road Bikes,North America,Retail Partner," $1,484.00 ",6,5
+5/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Individual," $1,664.00 ",3,1
+5/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Retail Partner," $1,330.00 ",1,2
+5/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Individual," $1,574.00 ",4,5
+5/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $1,204.00 ",6,4
+5/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Individual," $4,901.00 ",9,5
+5/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $1,202.00 ",1,5
+5/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Individual," $2,694.00 ",3,1
+5/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Retail Partner," $1,762.00 ",3,5
+5/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $2,083.00 ",3,4
+5/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $2,649.00 ",5,2
+6/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $3,885.00 ",6,5
+6/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Retail Partner," $1,118.00 ",1,5
+6/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $2,467.00 ",4,1
+6/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $4,409.00 ",7,4
+6/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $4,073.00 ",5,3
+6/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Retail Partner," $3,172.00 ",4,3
+6/1/2023,RB2001,Speedster RB,Road Bikes,North America,Individual," $3,777.00 ",4,5
+6/1/2023,RB2001,Speedster RB,Road Bikes,North America,Retail Partner," $2,075.00 ",2,4
+6/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Individual," $4,106.00 ",5,2
+6/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $2,493.00 ",2,4
+6/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Individual," $1,353.00 ",1,4
+6/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $4,268.00 ",5,1
+6/1/2023,TB3002,Tour De World,Touring Bikes,North America,Individual," $1,385.00 ",3,4
+6/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Retail Partner," $2,818.00 ",8,3
+6/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $3,214.00 ",5,4
+6/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Retail Partner," $2,536.00 ",5,5
+6/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $2,018.00 ",4,3
+6/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $2,889.00 ",5,1
+7/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Individual," $4,568.00 ",5,3
+7/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Retail Partner," $1,142.00 ",1,1
+7/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $2,514.00 ",3,1
+7/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $3,992.00 ",5,5
+7/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $4,015.00 ",5,3
+7/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $2,412.00 ",4,3
+7/1/2023,RB2002,Roadmaster,Road Bikes,North America,Individual," $1,576.00 ",6,3
+7/1/2023,RB2002,Roadmaster,Road Bikes,North America,Retail Partner," $1,036.00 ",5,4
+7/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Individual," $3,096.00 ",4,3
+7/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $2,577.00 ",4,2
+7/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Individual," $1,260.00 ",1,5
+7/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Retail Partner," $1,532.00 ",2,4
+7/1/2023,TB3002,Tour De World,Touring Bikes,North America,Individual," $2,088.00 ",2,4
+7/1/2023,TB3002,Tour De World,Touring Bikes,North America,Retail Partner," $4,685.00 ",8,3
+7/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Individual," $2,077.00 ",2,3
+7/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Retail Partner," $2,611.00 ",4,3
+7/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Individual," $1,782.00 ",3,1
+7/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $2,764.00 ",5,1
+8/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Individual," $4,222.00 ",6,2
+8/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Retail Partner," $4,375.00 ",6,1
+8/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Individual," $4,473.00 ",7,4
+8/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $6,480.00 ",4,5
+8/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Individual," $2,777.00 ",4,1
+8/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Retail Partner," $9,869.00 ",6,5
+8/1/2023,RB2002,Roadmaster,Road Bikes,North America,Individual," $1,073.00 ",2,3
+8/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $1,031.00 ",1,1
+8/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Individual," $2,084.00 ",2,3
+8/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $2,547.00 ",3,5
+8/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Individual," $1,349.00 ",5,1
+8/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Retail Partner," $1,330.00 ",3,4
+8/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Individual," $3,639.00 ",6,3
+8/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $1,347.00 ",1,1
+8/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $2,428.00 ",4,5
+8/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Retail Partner," $3,600.00 ",7,3
+8/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Individual," $3,442.00 ",7,4
+8/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $2,230.00 ",4,1
+9/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $4,919.00 ",7,5
+9/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Retail Partner," $3,748.00 ",6,2
+9/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $3,900.00 ",5,5
+9/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Retail Partner," $2,475.00 ",3,4
+9/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Asia,Individual," $4,495.00 ",6,4
+9/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $1,132.00 ",1,2
+9/1/2023,RB2002,Roadmaster,Road Bikes,North America,Individual," $1,031.00 ",4,4
+9/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $2,301.00 ",2,3
+9/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Individual," $2,693.00 ",3,4
+9/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Retail Partner," $2,636.00 ",3,4
+9/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Individual," $1,810.00 ",2,3
+9/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Retail Partner," $4,973.00 ",5,5
+9/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Individual," $1,515.00 ",2,5
+9/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $3,274.00 ",7,2
+9/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $1,740.00 ",2,2
+9/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Retail Partner," $2,891.00 ",4,4
+9/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $3,243.00 ",5,5
+9/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Retail Partner," $1,958.00 ",3,1
+10/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Individual," $1,984.00 ",3,5
+10/1/2023,MB1003,Rocky Path,Mountain Bikes,North America,Retail Partner," $3,156.00 ",5,1
+10/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $4,885.00 ",6,4
+10/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Retail Partner," $1,431.00 ",2,4
+10/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $3,583.00 ",5,3
+10/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Retail Partner," $4,614.00 ",5,3
+10/1/2023,RB2002,Roadmaster,Road Bikes,North America,Individual," $1,287.00 ",4,4
+10/1/2023,RB2001,Speedster RB,Road Bikes,North America,Retail Partner," $2,131.00 ",4,3
+10/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Individual," $3,961.00 ",5,1
+10/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Retail Partner," $1,625.00 ",3,4
+10/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Individual," $1,211.00 ",5,3
+10/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Retail Partner," $1,413.00 ",6,3
+10/1/2023,TB3002,Tour De World,Touring Bikes,North America,Individual," $1,656.00 ",3,3
+10/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Retail Partner," $4,427.00 ",7,5
+10/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $2,462.00 ",3,4
+10/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Retail Partner," $2,666.00 ",5,4
+10/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $2,971.00 ",5,3
+10/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Retail Partner," $4,836.00 ",7,3
+11/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $2,185.00 ",3,1
+11/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,North America,Retail Partner," $4,731.00 ",9,1
+11/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Individual," $1,172.00 ",1,4
+11/1/2023,MB1003,Rocky Path,Mountain Bikes,Europe,Retail Partner," $2,206.00 ",3,4
+11/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $2,515.00 ",4,3
+11/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $2,472.00 ",4,5
+11/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Individual," $2,207.00 ",2,1
+11/1/2023,RB2002,Roadmaster,Road Bikes,North America,Retail Partner," $1,421.00 ",6,1
+11/1/2023,RB2003,Velocity Pro,Road Bikes,Europe,Individual," $1,883.00 ",3,2
+11/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Retail Partner," $1,152.00 ",1,2
+11/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Individual," $1,514.00 ",1,5
+11/1/2023,RB2001,Speedster RB,Road Bikes,Asia,Retail Partner," $2,568.00 ",3,5
+11/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Individual," $2,523.00 ",8,2
+11/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $2,661.00 ",5,1
+11/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Individual," $2,734.00 ",5,4
+11/1/2023,TB3003,Journey Classic,Touring Bikes,Europe,Retail Partner," $2,666.00 ",5,2
+11/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Individual," $2,674.00 ",7,3
+11/1/2023,TB3002,Tour De World,Touring Bikes,Asia,Retail Partner," $2,484.00 ",6,4
+12/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Individual," $3,897.00 ",7,1
+12/1/2023,MB1002,Mountain King,Mountain Bikes,North America,Retail Partner," $3,414.00 ",4,5
+12/1/2023,MB1001,Trailblazer MTB,Mountain Bikes,Europe,Individual," $3,804.00 ",5,4
+12/1/2023,MB1002,Mountain King,Mountain Bikes,Europe,Retail Partner," $3,582.00 ",5,4
+12/1/2023,MB1002,Mountain King,Mountain Bikes,Asia,Individual," $1,416.00 ",2,1
+12/1/2023,MB1003,Rocky Path,Mountain Bikes,Asia,Retail Partner," $1,478.00 ",2,3
+12/1/2023,RB2001,Speedster RB,Road Bikes,North America,Individual," $1,419.00 ",1,3
+12/1/2023,RB2003,Velocity Pro,Road Bikes,North America,Retail Partner," $2,748.00 ",3,5
+12/1/2023,RB2001,Speedster RB,Road Bikes,Europe,Individual," $1,029.00 ",3,2
+12/1/2023,RB2002,Roadmaster,Road Bikes,Europe,Retail Partner," $1,099.00 ",1,4
+12/1/2023,RB2003,Velocity Pro,Road Bikes,Asia,Individual," $1,682.00 ",2,1
+12/1/2023,RB2002,Roadmaster,Road Bikes,Asia,Retail Partner," $2,584.00 ",3,1
+12/1/2023,TB3003,Journey Classic,Touring Bikes,North America,Individual," $1,146.00 ",1,2
+12/1/2023,TB3001,Traveler TB,Touring Bikes,North America,Retail Partner," $2,254.00 ",3,2
+12/1/2023,TB3001,Traveler TB,Touring Bikes,Europe,Individual," $3,465.00 ",7,2
+12/1/2023,TB3002,Tour De World,Touring Bikes,Europe,Retail Partner," $1,256.00 ",2,2
+12/1/2023,TB3003,Journey Classic,Touring Bikes,Asia,Individual," $1,095.00 ",1,3
+12/1/2023,TB3001,Traveler TB,Touring Bikes,Asia,Retail Partner," $1,531.00 ",2,4
